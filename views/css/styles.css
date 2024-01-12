@@ -1,0 +1,96 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    line-height: 26px;
+    letter-spacing: 1px;
+}
+
+a {
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+    color: #000;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.top_blk_header {
+    height: 43px;
+    width: 100vw;
+    background: #000;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 25px 0;
+
+    >* {
+        padding: 5px;
+    }
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 19px 0;
+    max-width: 940px;
+
+    a:hover {
+        color: #db0f35;
+    }
+
+    .nav_active {
+        color: #db0f35;
+        ;
+    }
+}
+
+.flex_row {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.flex_col {
+    display: flex;
+    flex-direction: column;
+}
+
+
+footer {
+    background: black;
+}
