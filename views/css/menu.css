@@ -62,7 +62,6 @@
         }
 
         &:hover {
-            cursor: pointer;
             background: #f0f0f0;
             /* -webkit-box-shadow: 0px 0px 27px -5px rgba(0, 0, 0, 0.78);
             -moz-box-shadow: 0px 0px 27px -5px rgba(0, 0, 0, 0.78);
