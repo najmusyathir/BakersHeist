@@ -4,7 +4,7 @@
         {
             "id":"1",
             "name":"Blueberry Cake",
-            "img": "../assets/menu/blueberry.jpg",
+            "img": "./assets/menu/blueberry.jpg",
             "desc":"Blueberry cake is a delightful dessert that showcases the sweet and slightly tart flavor of blueberries.",
             "price": "RM 7.00"
 
@@ -12,7 +12,7 @@
         {
             "id":"2",
             "name":"Cheesecake",
-            "img": "../assets/menu/cheesecake.jpg",
+            "img": "./assets/menu/cheesecake.jpg",
             "desc":"Cheesecake is a beloved dessert known for its rich and creamy texture.",
             "price": "RM 7.00"
 
@@ -20,7 +20,7 @@
         {
             "id":"3",
             "name":"Blackforest Cake",
-            "img": "../assets/menu/blackforest.jpg",
+            "img": "./assets/menu/blackforest.jpg",
             "desc":"The combination of these elements makes Black Forest cake a timeless and indulgent treat.",
             "price": "RM 9.00"
 
@@ -28,7 +28,7 @@
         {
             "id":"4",
             "name":"Mocha Cake",
-            "img": "../assets/menu/mocha cake.jpg",
+            "img": "./assets/menu/mocha cake.jpg",
             "desc":"The creamy texture of the frosting complements the moistness of the cake.",
             "price": "RM 9.00"
 
@@ -36,7 +36,7 @@
         {
             "id":"5",
             "name":"Tiramisu",
-            "img": "../assets/menu/tiramisu.jpg",
+            "img": "./assets/menu/tiramisu.jpg",
             "desc":"The combination of the coffee-soaked ladyfingers and the creamy mascarpone creates a harmonious balance of flavors and textures.",
             "price": "RM 9.00"
 
@@ -44,7 +44,7 @@
         {
             "id":"6",
             "name":"Lychee Cake",
-            "img": "../assets/menu/lychee.jpg",
+            "img": "./assets/menu/lychee.jpg",
             "desc":"Lychee cake is a delightful and exotic dessert that showcases the sweet and floral flavor of lychee fruit.",
             "price": "RM 7.00"
 
@@ -56,7 +56,7 @@
         {
             "id":"1",
             "name":"Croissants",
-            "img": "../assets/menu/croisont.jpg",
+            "img": "./assets/menu/croisont.jpg",
             "desc":"Delightful combination of buttery richness, flaky layers, and versatility makes croissants a universally beloved pastry enjoyed.",
             "price": "RM 7.00"
 
@@ -64,7 +64,7 @@
         {
             "id":"2",
             "name":"Cannoncini",
-            "img": "../assets/menu/cannoncini.jpg",
+            "img": "./assets/menu/cannoncini.jpg",
             "desc":"Delicious Italian pastries that are enjoyed for their flaky and buttery layers filled with a creamy filling.",
             "price": "RM 7.00"
 
@@ -72,7 +72,7 @@
         {
             "id":"3",
             "name":"Berry Custard",
-            "img": "../assets/menu/berry custard.jpg",
+            "img": "./assets/menu/berry custard.jpg",
             "desc":"Berry custard is a delectable dessert that combines the sweetness of berries with the creamy richness of custard.",
             "price": "RM 7.00"
 
@@ -83,7 +83,7 @@
         {
             "id":"1",
             "name":"Spaghetti Bolognese",
-            "img": "../assets/menu/bolognese.jpeg",
+            "img": "./assets/menu/bolognese.jpeg",
             "desc":"A classic Italian pasta dish, is widely loved for its rich and hearty flavors.",
             "price": "RM 15.00"
 
@@ -91,7 +91,7 @@
         {
             "id":"2",
             "name":"Spaghetti Aglio Olio",
-            "img": "../assets/menu/aglio olio.jpeg",
+            "img": "./assets/menu/aglio olio.jpeg",
             "desc":"A classic Italian pasta dish known for its simplicity and delicious flavors.",
             "price": "RM 15.00"
 
@@ -99,7 +99,7 @@
         {
             "id":"3",
             "name":"Lamb Pie",
-            "img": "../assets/menu/lamb pie.jpeg",
+            "img": "./assets/menu/lamb pie.jpeg",
             "desc":"A savory dish featuring tender lamb encased in a flaky pastry, can be absolutely delicious",
             "price": "RM 19.00"
 

@@ -1,4 +1,4 @@
-fetch("../assets/menu/menus.json")
+fetch("./assets/menu/menus.json")
 
 .then(function (response){
 
